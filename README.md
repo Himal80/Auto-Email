@@ -4,8 +4,7 @@
 👉 https://youtu.be/KPp7vJPyylo
 
 ---
-
-###⚡ What It Does
+### ⚡ What It Does
 
 - Detects new emails automatically
 - AI reads & understands message
